@@ -8,4 +8,4 @@ Blog
 
 References
 -----------
-1. http://www.codepool.biz/ocr-barcode-twain/how-to-implement-a-simple-barcode-scan-application-on-android.html
+[1]:http://www.codepool.biz/ocr-barcode-twain/how-to-implement-a-simple-barcode-scan-application-on-android.html
