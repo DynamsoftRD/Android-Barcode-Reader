@@ -1,9 +1,7 @@
-Android Barcode Reader
-=========
+# Android Barcode Reader
 This is a simple Android barcode reader developed with ZXing.
 
-Blog
------------
+## Blog
 [How to implement a simple barcode scan application on Android][1]
 
 
